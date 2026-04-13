@@ -1,0 +1,98 @@
+export const LOCATION_FLAVOUR: Record<string, string[]> = {
+  university_mains: [
+    'The corridors carry the sound of distant lectures and the squeak of chalk.',
+    'Two students argue quietly in a doorway, their voices careful.',
+    'The smell of old stone and lamp oil is everywhere.',
+    'Someone has left a stack of papers on a bench. No one claims them.',
+  ],
+  university_artificery: [
+    'The furnaces breathe steadily. The heat is its own kind of presence.',
+    'A student drops something metal and flinches at the sound.',
+    'The light here is orange and warm, even in winter.',
+    'Voices are low; the work demands attention that talking interrupts.',
+  ],
+  university_archives_exterior: [
+    'The Archives face the world without ornament, neither welcoming nor hostile.',
+    'A student lingers on the steps, leafing through notes.',
+    'The stone here is older than most of the University. You can feel it.',
+    'The doors are heavy. They open only for those who are meant to enter.',
+  ],
+  university_archives_stacks: [
+    'The air is still. No one speaks above a murmur in the Stacks.',
+    'The shelves rise into shadow. You do not look up for long.',
+    'Every surface holds something. The Stacks do not believe in empty space.',
+    'Time moves differently here. You have been warned about that.',
+  ],
+  university_medica: [
+    'The smell of healing herbs is clean and a little sharp.',
+    'A student hurries past with a covered tray, eyes forward.',
+    'Steadiness seems to seep out of the walls. It is not unwelcome.',
+    'Someone coughs in one of the back rooms. No one reacts.',
+  ],
+  university_mews_room: [
+    'The room holds exactly what you need and nothing more.',
+    'Morning light finds the gap in the shutter and crosses the desk.',
+    'The quiet here is different from the Archives — this is earned.',
+    'You know every inch of this room. That is both comfort and confinement.',
+  ],
+  university_mews_corridor: [
+    'Floorboards creak underfoot in a familiar pattern.',
+    'The smell of candle wax and other people\'s meals.',
+    'Someone laughs behind a closed door, then stops.',
+    'The corridor is narrow enough that two people must angle past each other.',
+  ],
+  university_courtyard: [
+    'Wind crosses the courtyard without apology.',
+    'The stones are worn into slight hollows where feet have crossed for years.',
+    'Students move through quickly. It is not a place to linger.',
+    'In summer this might be pleasant. It is not summer.',
+  ],
+  university_ankers: [
+    'The fire in the corner is doing its job.',
+    'Conversation is low and general. Nothing here demands your attention.',
+    'The ale is unremarkable. The warmth is not.',
+    "Anker's has the density of a place that is always in use.",
+  ],
+  university_fishery_outer: [
+    'Something is being hammered somewhere deeper in the building.',
+    'The heat from the furnaces carries all the way to the outer workspace.',
+    'Students at the benches do not look up when you enter.',
+    'The smell of flux is sharp in the back of your throat.',
+  ],
+  university_mains_hall: [
+    'The bench where you usually sit has a familiar scratch in the wood.',
+    'Light comes through high windows at an angle that makes reading difficult by afternoon.',
+    'The hall is built to carry a voice. You notice this whenever it is empty.',
+    'Chalk marks on the board from a previous lecture are only half-erased.',
+  ],
+  university_riverside_road: [
+    'The river is just audible through the trees on your left.',
+    'A cart passes, wheels loud on the packed earth.',
+    'The road is public and you share it with strangers.',
+    'Wind off the water carries cold that the buildings of the University had blocked.',
+  ],
+  stonebridge: [
+    'The stone underfoot is smooth from countless crossings.',
+    'You can see both sides from the middle of the bridge — two different worlds.',
+    'The river beneath moves without caring about any of it.',
+    'Crossing takes only minutes, but something shifts in the crossing.',
+  ],
+  imre_fountain_square: [
+    'The fountain is still. The square moves around it.',
+    'The sound of music drifts from somewhere not quite visible.',
+    'Imre smells different than the University. Warmer, somehow.',
+    'People here move with a looser purpose. The students are easy to pick out.',
+  ],
+  eolian_exterior: [
+    'The Eolian holds its light inside, spilling just enough through the cracks.',
+    'In the evening, you can hear the music clearly from here.',
+    'The door is plain. What it leads to is not.',
+    'A couple stands near the entrance, speaking quietly before going in.',
+  ],
+  eolian_floor: [
+    'The room has the particular attention of people who actually listen.',
+    'A performer on the small stage plays as though the audience is beside the point.',
+    'Voices fill the spaces between songs without displacing the music.',
+    'The Eolian rewards quality. You feel this without being told.',
+  ],
+};
